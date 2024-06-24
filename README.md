@@ -1,5 +1,6 @@
 # Rukya
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+<h2 align="left">Hi :) My name is Rukya and I'm a junior intelligent systems student learning code and building cool unrealistic stuff xos ;)</h2>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F15808&psig=AOvVaw1SnoNTxmMB1QnKmh0fT4yB&ust=1719336178409000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDh2cTg9IYDFQAAAAAdAAAAABAQ"  />
+<img align="right" height="150" src="https://giffiles.alphacoders.com/133/13325.gif"  />
 
 ###
 
